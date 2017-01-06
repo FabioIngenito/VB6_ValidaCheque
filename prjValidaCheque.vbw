@@ -1,0 +1,5 @@
+frmValidaCheque = 441, 96, 1197, 799, C, 0, 0, 0, 0, C
+clsModulo = 68, 129, 671, 811, C
+mdlPrincipal = 570, 130, 1191, 853, C
+clsBD = 101, 129, 548, 811, C
+clsGeral = 198, 131, 1030, 813, C
